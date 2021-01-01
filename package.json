@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/bnuyts/xrp-payment-cli-example/issues"
   },
-  "homepage": "https://github.com/bnuyts/xrp-payment-cli-example#readme"
+  "homepage": "https://github.com/bnuyts/xrp-payment-cli-example#readme",
+  "devDependencies": {
+    "xrp-payment-cli": "^0.3.1"
+  }
 }
