@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/bnuyts/xrp-payment-cli-example#readme",
   "devDependencies": {
-    "xrp-payment-cli": "^0.3.1"
+    "xrp-payment-cli": "^0.3.2"
   }
 }
