@@ -1,0 +1,21 @@
+{
+  "name": "xrp-payment-cli-example",
+  "version": "1.0.0",
+  "description": "Example of the xrp-payment-cli tool",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnuyts/xrp-payment-cli-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnuyts/xrp-payment-cli-example/issues"
+  },
+  "homepage": "https://github.com/bnuyts/xrp-payment-cli-example#readme"
+}

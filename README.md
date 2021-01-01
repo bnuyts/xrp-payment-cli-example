@@ -1,0 +1,1 @@
+Example of the [xrp-payment-cli](https://www.npmjs.com/package/xrp-payment-cli) tool.
